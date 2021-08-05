@@ -1,0 +1,19 @@
+.new__data__button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 30px;
+    max-height: 45px;
+    padding: 17px 30px;
+    margin-top: 20px;
+    background: rgb(212, 11, 11);
+    border: none;
+    color: white;
+    font-size: 14px;
+    font-family: "Inter";
+    border-radius: 3px;
+}
+
+.new__data__button:hover {
+    cursor: pointer;
+}
